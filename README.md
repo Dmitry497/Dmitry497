@@ -1,16 +1,23 @@
-## Hi there 👋
+### Привет, я [Ваше имя] 👋
 
-<!--
-**Dmitry497/Dmitry497** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Технологии, с которыми я работаю
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 📊 Статистика языков в моих репозиториях
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЮЗЕРНЕЙМ&layout=compact&theme=radical)
+
+---
+
+## 🐍 Анимированная змейка, поедающая коммиты
+
+![Snake animation](https://raw.githubusercontent.com/ТВОЙ_ЮЗЕРНЕЙМ/ТВОЙ_ЮЗЕРНЕЙМ/output/github-contribution-grid-snake-dark.svg)

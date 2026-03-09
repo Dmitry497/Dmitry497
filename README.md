@@ -14,10 +14,11 @@
 
 ## 📊 Статистика языков в моих репозиториях
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_ЮЗЕРНЕЙМ&layout=compact&theme=radical)
+![Top Langs](https://raw.githubusercontent.com/Dmitry497/Dmitry497/output/stats_langs.svg)
 
 ---
 
 ## 🐍 Анимированная змейка, поедающая коммиты
 
 ![Snake animation](https://raw.githubusercontent.com/ТВОЙ_ЮЗЕРНЕЙМ/ТВОЙ_ЮЗЕРНЕЙМ/output/github-contribution-grid-snake-dark.svg)
+

@@ -1,3 +1,4 @@
+
 ### Привет, я Дмитрий 👋
 
 ---
@@ -14,8 +15,4 @@
 
 ## 🌐 Социальные сети
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/твой_ник)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_профиль)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/твой_ник)
-[![VK](https://img.shields.io/badge/-VK-4680C2?style=flat-square&logo=vk&logoColor=white)](https://vk.com/твой_ник)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/твой_юзернейм)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wwwwwqqqqd)

@@ -18,3 +18,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/wwwwwqqqqd)
 
  
+https://www.codewars.com/users/Dmitry497/badges/large
